@@ -1,4 +1,5 @@
-Tic-Tac-Toe Multiplayer Game
+# Tic-Tac-Toe Multiplayer Game
+
 This is a simple Tic-Tac-Toe game made with HTML, CSS and vanilla Javascript. It is a multiplayer game that requires two players to enter their names before starting the game.
 
 Features
